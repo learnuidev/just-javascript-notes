@@ -1,4 +1,4 @@
-# Just-Javascript-Reading-Notes
+# Just JavaScript - Notes
 
 ## Background
 
